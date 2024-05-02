@@ -1,3 +1,3 @@
 from NLPTextSummarizer.logging import logger
 
-logger.info("Test !")
+logger.info("This is an info message")
