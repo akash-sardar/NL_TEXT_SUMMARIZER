@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: NLPTextSummarizer
+Version: 0.0.0
+Summary: This is a NLP text summarizer
+Home-page: https://github.com/akash-sardar/NL_TEXT_SUMMARIZER
+Author: akash-sardar
+Author-email: akashjoy2023@gmail.com
+Project-URL: Bug Tracker, https://github.com/akash-sardar/NL_TEXT_SUMMARIZER/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# NL_TEXT_SUMMARIZER
+End to End implementation of a Text Summarizer
