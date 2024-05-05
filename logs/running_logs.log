@@ -47,3 +47,62 @@ Source-Age: 0
 [2024-05-05 13:01:38,372: INFO: common: created directory at: artifacts]
 [2024-05-05 13:01:38,373: INFO: common: created directory at: artifacts/data_ingestion]
 [2024-05-05 13:01:38,374: INFO: 973615863: artifacts/data_ingestion/data.zip already exists of size: ~ 7718 KB]
+[2024-05-05 13:02:03,628: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-05 13:02:03,632: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-05 13:02:03,633: INFO: common: created directory at: artifacts]
+[2024-05-05 13:02:03,634: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-05 13:02:03,635: INFO: 2283690807: artifacts/data_ingestion/data.zip already exists of size: ~ 7718 KB]
+[2024-05-05 13:02:45,973: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-05 13:02:45,974: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-05 13:02:45,976: INFO: common: created directory at: artifacts]
+[2024-05-05 13:02:45,977: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-05 13:02:45,978: INFO: 677450898: artifacts/data_ingestion/data.zip already exists of size: ~ 7718 KB]
+[2024-05-05 13:28:35,581: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-05 13:28:35,583: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-05 13:28:35,584: INFO: common: created directory at: artifacts]
+[2024-05-05 13:28:35,585: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-05 13:28:35,586: INFO: 677450898: artifacts/data_ingestion/data.zip already exists of size: ~ 7718 KB]
+[2024-05-05 14:16:49,750: INFO: main: >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2024-05-05 14:16:49,751: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-05 14:16:49,751: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-05 14:16:49,752: INFO: common: created directory at: artifacts]
+[2024-05-05 14:16:49,752: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-05 14:16:49,752: INFO: data_ingestion: artifacts/data_ingestion/data.zip already exists of size: ~ 7718 KB]
+[2024-05-05 14:16:49,844: INFO: main: >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-05-05 14:18:24,354: INFO: main: >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2024-05-05 14:18:24,355: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-05 14:18:24,355: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-05 14:18:24,356: INFO: common: created directory at: artifacts]
+[2024-05-05 14:18:24,356: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-05 14:18:27,413: INFO: data_ingestion: artifacts/data_ingestion/data.zip donloaded with follwoing info:
+ Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E186:248B02:3FBD7B:47F49E:6637CD70
+Accept-Ranges: bytes
+Date: Sun, 05 May 2024 18:18:25 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-katl1840046-PDK
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1714933105.910591,VS0,VE246
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 32ff3076acd9ef4ee470c03908b82db7f2e3a8dc
+Expires: Sun, 05 May 2024 18:23:25 GMT
+Source-Age: 0
+
+]
+[2024-05-05 14:18:27,521: INFO: main: >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
