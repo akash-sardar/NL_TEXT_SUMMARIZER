@@ -106,3 +106,61 @@ Source-Age: 0
 [2024-05-05 14:18:27,521: INFO: main: >>>>>> Stage Data Ingestion Stage completed <<<<<<
 
 x==========x]
+[2024-05-06 21:47:06,511: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-06 21:47:06,517: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-06 21:47:06,518: INFO: common: created directory at: artifacts]
+[2024-05-06 21:47:06,519: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-06 21:48:24,008: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-06 21:48:24,010: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-06 21:48:24,011: INFO: common: created directory at: artifacts]
+[2024-05-06 21:48:24,012: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-06 21:55:34,593: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-06 21:55:34,595: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-06 21:55:34,596: INFO: common: created directory at: artifacts]
+[2024-05-06 21:55:34,597: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-06 21:55:53,117: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-06 21:55:53,118: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-06 21:55:53,120: INFO: common: created directory at: artifacts]
+[2024-05-06 21:55:53,121: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-06 21:56:13,457: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-06 21:56:13,459: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-06 21:56:13,460: INFO: common: created directory at: artifacts]
+[2024-05-06 21:56:13,460: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-06 22:13:10,853: INFO: main: >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2024-05-06 22:13:10,857: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-06 22:13:10,857: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-06 22:13:10,858: INFO: common: created directory at: artifacts]
+[2024-05-06 22:13:10,858: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-06 22:13:10,858: INFO: data_ingestion: artifacts/data_ingestion/data.zip already exists of size: ~ 7718 KB]
+[2024-05-06 22:13:10,954: INFO: main: >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x================================x]
+[2024-05-06 22:13:10,954: INFO: main: >>>>>> Stage Data Validation Stage started <<<<<<]
+[2024-05-06 22:13:10,954: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-06 22:13:10,955: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-06 22:13:10,956: INFO: common: created directory at: artifacts]
+[2024-05-06 22:13:10,956: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-06 22:13:10,959: INFO: main: >>>>>> Stage Data Validation Stage completed <<<<<<
+
+x================================x]
+[2024-05-06 22:14:15,426: INFO: main: >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2024-05-06 22:14:15,427: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-06 22:14:15,427: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-06 22:14:15,429: INFO: common: created directory at: artifacts]
+[2024-05-06 22:14:15,429: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-06 22:14:15,429: INFO: data_ingestion: artifacts/data_ingestion/data.zip already exists of size: ~ 7718 KB]
+[2024-05-06 22:14:15,524: INFO: main: >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-06 22:14:15,524: INFO: main: >>>>>> Stage Data Validation Stage started <<<<<<]
+[2024-05-06 22:14:15,525: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-06 22:14:15,526: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-06 22:14:15,526: INFO: common: created directory at: artifacts]
+[2024-05-06 22:14:15,526: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-06 22:14:15,526: INFO: main: >>>>>> Stage Data Validation Stage completed <<<<<<
+
+x================================x
+
+]
