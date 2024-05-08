@@ -263,3 +263,167 @@ x================================x
 x================================x
 
 ]
+[2024-05-07 22:33:52,507: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-07 23:50:33,934: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-07 23:50:33,949: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-07 23:50:33,951: INFO: common: created directory at: artifacts]
+[2024-05-07 23:50:33,953: INFO: common: created directory at: artifacts/model_trainer]
+[2024-05-07 23:54:00,866: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-07 23:54:01,204: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-07 23:54:01,213: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-07 23:54:01,214: INFO: common: created directory at: artifacts]
+[2024-05-07 23:54:01,214: INFO: common: created directory at: artifacts/model_trainer]
+[2024-05-07 23:56:20,478: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-07 23:56:20,765: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-07 23:56:20,767: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-07 23:56:20,768: INFO: common: created directory at: artifacts]
+[2024-05-07 23:56:20,770: INFO: common: created directory at: artifacts/model_trainer]
+[2024-05-08 00:00:35,252: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-08 00:00:35,515: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 00:00:35,518: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 00:00:35,519: INFO: common: created directory at: artifacts]
+[2024-05-08 00:00:35,521: INFO: common: created directory at: artifacts/model_trainer]
+[2024-05-08 00:45:49,068: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-08 00:47:51,277: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-08 00:47:52,757: INFO: main: >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2024-05-08 00:47:52,765: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 00:47:52,771: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 00:47:52,771: INFO: common: created directory at: artifacts]
+[2024-05-08 00:47:52,772: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-08 00:47:55,686: INFO: data_ingestion: artifacts/data_ingestion/data.zip donloaded with follwoing info:
+ Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F128:2EEF38:3C4E1F:43EDE5:663B03F8
+Accept-Ranges: bytes
+Date: Wed, 08 May 2024 04:47:52 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-katl1840064-PDK
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1715143673.568180,VS0,VE219
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 63e3864db6b787d3cdc47f9ec36a800e8449b320
+Expires: Wed, 08 May 2024 04:52:52 GMT
+Source-Age: 0
+
+]
+[2024-05-08 00:47:55,779: INFO: main: >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 00:47:55,781: INFO: main: >>>>>> Stage Data Validation Stage started <<<<<<]
+[2024-05-08 00:47:55,783: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 00:47:55,784: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 00:47:55,785: INFO: common: created directory at: artifacts]
+[2024-05-08 00:47:55,786: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-08 00:47:55,787: INFO: main: >>>>>> Stage Data Validation Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 00:47:55,787: INFO: main: >>>>>> Stage Data Transformation Stage started <<<<<<]
+[2024-05-08 00:47:55,788: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 00:47:55,790: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 00:47:55,790: INFO: common: created directory at: artifacts]
+[2024-05-08 00:47:55,790: INFO: common: created directory at: artifacts/data_transformation]
+[2024-05-08 00:47:58,874: INFO: main: >>>>>> Stage Data Transformation Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 00:47:58,874: INFO: main: >>>>>> Stage Model Trainer Stage started <<<<<<]
+[2024-05-08 00:47:58,877: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 00:47:58,878: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 00:47:58,878: INFO: common: created directory at: artifacts]
+[2024-05-08 00:47:58,881: INFO: common: created directory at: artifacts/model_trainer]
+[2024-05-08 00:47:59,067: ERROR: main: cannot access local variable 'model_pegasus' where it is not associated with a value]
+Traceback (most recent call last):
+  File "D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\main.py", line 49, in <module>
+    model_trainer.main()
+  File "d:\practiceprojects\nl_text_summarization\nl_text_summarizer\src\NLPTextSummarizer\pipeline\stage_04_model_trainer.py", line 16, in main
+    raise e
+  File "d:\practiceprojects\nl_text_summarization\nl_text_summarizer\src\NLPTextSummarizer\pipeline\stage_04_model_trainer.py", line 14, in main
+    model_trainer.train()
+  File "d:\practiceprojects\nl_text_summarization\nl_text_summarizer\src\NLPTextSummarizer\components\model_trainer.py", line 42, in train
+    trainer = Trainer(model = model_pegasus,
+                              ^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'model_pegasus' where it is not associated with a value
+[2024-05-08 00:48:53,311: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-08 00:48:54,615: INFO: main: >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2024-05-08 00:48:54,619: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 00:48:54,620: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 00:48:54,621: INFO: common: created directory at: artifacts]
+[2024-05-08 00:48:54,621: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-08 00:48:57,015: INFO: data_ingestion: artifacts/data_ingestion/data.zip donloaded with follwoing info:
+ Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: F128:2EEF38:3C4E1F:43EDE5:663B03F8
+Accept-Ranges: bytes
+Date: Wed, 08 May 2024 04:48:54 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-katl1840048-PDK
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1715143734.103623,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4bcb961f148dc2b3fa137ddf4122c99ebd4a384e
+Expires: Wed, 08 May 2024 04:53:54 GMT
+Source-Age: 61
+
+]
+[2024-05-08 00:48:57,121: INFO: main: >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 00:48:57,122: INFO: main: >>>>>> Stage Data Validation Stage started <<<<<<]
+[2024-05-08 00:48:57,124: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 00:48:57,125: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 00:48:57,126: INFO: common: created directory at: artifacts]
+[2024-05-08 00:48:57,126: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-08 00:48:57,126: INFO: main: >>>>>> Stage Data Validation Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 00:48:57,127: INFO: main: >>>>>> Stage Data Transformation Stage started <<<<<<]
+[2024-05-08 00:48:57,129: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 00:48:57,135: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 00:48:57,135: INFO: common: created directory at: artifacts]
+[2024-05-08 00:48:57,136: INFO: common: created directory at: artifacts/data_transformation]
+[2024-05-08 00:48:59,962: INFO: main: >>>>>> Stage Data Transformation Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 00:48:59,963: INFO: main: >>>>>> Stage Model Trainer Stage started <<<<<<]
+[2024-05-08 00:48:59,965: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 00:48:59,966: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 00:48:59,966: INFO: common: created directory at: artifacts]
+[2024-05-08 00:48:59,967: INFO: common: created directory at: artifacts/model_trainer]
+[2024-05-08 00:56:40,120: INFO: main: >>>>>> Stage Model Trainer Stage completed <<<<<<
+
+x================================x
+
+]

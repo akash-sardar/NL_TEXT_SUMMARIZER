@@ -1,7 +1,7 @@
 # NL_TEXT_SUMMARIZER
 # End to End implementation of a Text Summarizer
 
-## Workflows
+## Workflows for all stages - Data Ingestion, Data Validation, Data Transformation
 1. Update the ./config/config.yaml
 2. Update the ./params.yaml
 3. Update the ./entity/__init__.py
