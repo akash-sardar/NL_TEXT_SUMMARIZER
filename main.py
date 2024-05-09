@@ -2,6 +2,7 @@ from NLPTextSummarizer.pipeline.stage_01_data_ingestion import *
 from NLPTextSummarizer.pipeline.stage_02_data_validation import *
 from NLPTextSummarizer.pipeline.stage_03_data_transformation import *
 from NLPTextSummarizer.pipeline.stage_04_model_trainer import *
+from NLPTextSummarizer.pipeline.stage_05_model_evaluation import *
 from NLPTextSummarizer.logging import logger
 
 
@@ -47,6 +48,18 @@ try:
     logger.info(f">>>>>> Stage {STAGE_NAME} started <<<<<<")
     model_trainer = ModelTrainerTrainingPipeline()
     model_trainer.main()
+    logger.info(f">>>>>> Stage {STAGE_NAME} completed <<<<<<\n\nx================================x\n\n")
+except Exception as e:
+    logger.exception(e)
+    raise e
+
+
+STAGE_NAME = "Model Evaluation Stage"
+
+try:
+    logger.info(f">>>>>> Stage {STAGE_NAME} started <<<<<<")
+    model_evaluation = ModelEvaluationTrainingPipeline()
+    model_evaluation.main()
     logger.info(f">>>>>> Stage {STAGE_NAME} completed <<<<<<\n\nx================================x\n\n")
 except Exception as e:
     logger.exception(e)

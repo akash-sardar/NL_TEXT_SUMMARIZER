@@ -427,3 +427,275 @@ x================================x
 x================================x
 
 ]
+[2024-05-08 01:36:06,581: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-08 01:52:43,584: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 01:52:43,587: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 01:52:43,588: INFO: common: created directory at: artifacts]
+[2024-05-08 01:52:43,589: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-05-08 02:05:37,393: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-08 02:05:37,727: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 02:05:37,731: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 02:05:37,733: INFO: common: created directory at: artifacts]
+[2024-05-08 02:05:37,734: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-05-08 02:07:23,894: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-08 02:07:24,191: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 02:07:24,195: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 02:07:24,197: INFO: common: created directory at: artifacts]
+[2024-05-08 02:07:24,197: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-05-08 02:08:31,126: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-08 02:08:31,447: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 02:08:31,449: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 02:08:31,450: INFO: common: created directory at: artifacts]
+[2024-05-08 02:08:31,451: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-05-08 02:09:12,434: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-08 02:09:12,739: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 02:09:12,741: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 02:09:12,743: INFO: common: created directory at: artifacts]
+[2024-05-08 02:09:12,743: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-05-08 02:25:12,744: INFO: rouge_scorer: Using default tokenizer.]
+[2024-05-08 02:31:49,768: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-08 02:31:51,396: INFO: main: >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2024-05-08 02:31:51,412: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 02:31:51,412: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 02:31:51,412: INFO: common: created directory at: artifacts]
+[2024-05-08 02:31:51,414: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-08 02:31:53,611: INFO: data_ingestion: artifacts/data_ingestion/data.zip donloaded with follwoing info:
+ Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B286:304D3B:B83E5:D24EF:663B1C55
+Accept-Ranges: bytes
+Date: Wed, 08 May 2024 06:31:52 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-katl1840049-PDK
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1715149912.967026,VS0,VE271
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 6d3dc4671889649ebe2a792a58215a32208a574f
+Expires: Wed, 08 May 2024 06:36:52 GMT
+Source-Age: 0
+
+]
+[2024-05-08 02:31:53,706: INFO: main: >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 02:31:53,722: INFO: main: >>>>>> Stage Data Validation Stage started <<<<<<]
+[2024-05-08 02:31:53,724: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 02:31:53,724: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 02:31:53,724: INFO: common: created directory at: artifacts]
+[2024-05-08 02:31:53,724: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-08 02:31:53,724: INFO: main: >>>>>> Stage Data Validation Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 02:31:53,724: INFO: main: >>>>>> Stage Data Transformation Stage started <<<<<<]
+[2024-05-08 02:31:53,724: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 02:31:53,724: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 02:31:53,724: INFO: common: created directory at: artifacts]
+[2024-05-08 02:31:53,724: INFO: common: created directory at: artifacts/data_transformation]
+[2024-05-08 02:31:56,778: INFO: main: >>>>>> Stage Data Transformation Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 02:31:56,779: INFO: main: >>>>>> Stage Model Trainer Stage started <<<<<<]
+[2024-05-08 02:31:56,780: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 02:31:56,781: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 02:31:56,782: INFO: common: created directory at: artifacts]
+[2024-05-08 02:31:56,782: INFO: common: created directory at: artifacts/model_trainer]
+[2024-05-08 02:32:13,567: INFO: main: >>>>>> Stage Model Trainer Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 02:32:13,567: INFO: main: >>>>>> Stage Model Evaluation Stage started <<<<<<]
+[2024-05-08 02:32:13,567: ERROR: main: name 'ModelEvaluationTrainingPipeline' is not defined]
+Traceback (most recent call last):
+  File "D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\main.py", line 60, in <module>
+    model_evaluation = ModelEvaluationTrainingPipeline()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'ModelEvaluationTrainingPipeline' is not defined
+[2024-05-08 02:32:55,568: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-08 02:34:35,755: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-08 02:34:37,018: INFO: main: >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2024-05-08 02:34:37,020: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 02:34:37,022: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 02:34:37,022: INFO: common: created directory at: artifacts]
+[2024-05-08 02:34:37,022: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-08 02:34:38,655: INFO: data_ingestion: artifacts/data_ingestion/data.zip donloaded with follwoing info:
+ Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B286:304D3B:B83E5:D24EF:663B1C55
+Accept-Ranges: bytes
+Date: Wed, 08 May 2024 06:34:37 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-katl1840061-PDK
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1715150078.555289,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 83b66e064b5050461a77429754bc896698f2d4f0
+Expires: Wed, 08 May 2024 06:39:37 GMT
+Source-Age: 166
+
+]
+[2024-05-08 02:34:38,749: INFO: main: >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 02:34:38,749: INFO: main: >>>>>> Stage Data Validation Stage started <<<<<<]
+[2024-05-08 02:34:38,751: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 02:34:38,753: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 02:34:38,753: INFO: common: created directory at: artifacts]
+[2024-05-08 02:34:38,753: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-08 02:34:38,754: INFO: main: >>>>>> Stage Data Validation Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 02:34:38,754: INFO: main: >>>>>> Stage Data Transformation Stage started <<<<<<]
+[2024-05-08 02:34:38,756: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 02:34:38,757: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 02:34:38,757: INFO: common: created directory at: artifacts]
+[2024-05-08 02:34:38,758: INFO: common: created directory at: artifacts/data_transformation]
+[2024-05-08 02:34:41,608: INFO: main: >>>>>> Stage Data Transformation Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 02:34:41,608: INFO: main: >>>>>> Stage Model Trainer Stage started <<<<<<]
+[2024-05-08 02:34:41,608: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 02:34:41,608: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 02:34:41,608: INFO: common: created directory at: artifacts]
+[2024-05-08 02:34:41,608: INFO: common: created directory at: artifacts/model_trainer]
+[2024-05-08 02:34:54,940: INFO: main: >>>>>> Stage Model Trainer Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 02:34:54,953: INFO: main: >>>>>> Stage Model Evaluation Stage started <<<<<<]
+[2024-05-08 02:34:54,956: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 02:34:54,956: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 02:34:54,970: INFO: common: created directory at: artifacts]
+[2024-05-08 02:34:54,970: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-05-08 02:50:19,307: INFO: rouge_scorer: Using default tokenizer.]
+[2024-05-08 02:50:20,112: INFO: main: >>>>>> Stage Model Evaluation Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 23:23:22,540: INFO: server: Started server process [2328]]
+[2024-05-08 23:23:22,540: INFO: on: Waiting for application startup.]
+[2024-05-08 23:23:22,542: INFO: on: Application startup complete.]
+[2024-05-08 23:23:22,542: INFO: server: Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)]
+[2024-05-08 23:26:14,094: INFO: config: PyTorch version 2.3.0+cu118 available.]
+[2024-05-08 23:26:16,003: INFO: main: >>>>>> Stage Data Ingestion Stage started <<<<<<]
+[2024-05-08 23:26:16,006: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 23:26:16,014: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 23:26:16,015: INFO: common: created directory at: artifacts]
+[2024-05-08 23:26:16,016: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-05-08 23:26:18,292: INFO: data_ingestion: artifacts/data_ingestion/data.zip donloaded with follwoing info:
+ Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C1D0:1B2689:1EAE29C:226ED35:663C4255
+Accept-Ranges: bytes
+Date: Thu, 09 May 2024 03:26:16 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-katl1840079-PDK
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1715225176.911827,VS0,VE149
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7978edb7af5fbbf5f0dbff6c7fa83571a75fe730
+Expires: Thu, 09 May 2024 03:31:16 GMT
+Source-Age: 0
+
+]
+[2024-05-08 23:26:18,389: INFO: main: >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 23:26:18,390: INFO: main: >>>>>> Stage Data Validation Stage started <<<<<<]
+[2024-05-08 23:26:18,392: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 23:26:18,395: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 23:26:18,395: INFO: common: created directory at: artifacts]
+[2024-05-08 23:26:18,396: INFO: common: created directory at: artifacts/data_validation]
+[2024-05-08 23:26:18,396: INFO: main: >>>>>> Stage Data Validation Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 23:26:18,397: INFO: main: >>>>>> Stage Data Transformation Stage started <<<<<<]
+[2024-05-08 23:26:18,399: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 23:26:18,400: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 23:26:18,401: INFO: common: created directory at: artifacts]
+[2024-05-08 23:26:18,401: INFO: common: created directory at: artifacts/data_transformation]
+[2024-05-08 23:26:21,523: INFO: main: >>>>>> Stage Data Transformation Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 23:26:21,523: INFO: main: >>>>>> Stage Model Trainer Stage started <<<<<<]
+[2024-05-08 23:26:21,525: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 23:26:21,526: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 23:26:21,526: INFO: common: created directory at: artifacts]
+[2024-05-08 23:26:21,527: INFO: common: created directory at: artifacts/model_trainer]
+[2024-05-08 23:26:38,842: INFO: main: >>>>>> Stage Model Trainer Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 23:26:38,843: INFO: main: >>>>>> Stage Model Evaluation Stage started <<<<<<]
+[2024-05-08 23:26:38,846: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 23:26:38,848: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 23:26:38,848: INFO: common: created directory at: artifacts]
+[2024-05-08 23:26:38,849: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-05-08 23:41:58,755: INFO: rouge_scorer: Using default tokenizer.]
+[2024-05-08 23:41:59,335: INFO: main: >>>>>> Stage Model Evaluation Stage completed <<<<<<
+
+x================================x
+
+]
+[2024-05-08 23:53:31,179: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\config\config.yaml loaded successfully]
+[2024-05-08 23:53:31,185: INFO: common: yaml file: D:\PracticeProjects\NL_Text_Summarization\NL_TEXT_SUMMARIZER\params.yaml loaded successfully]
+[2024-05-08 23:53:31,187: INFO: common: created directory at: artifacts]
+[2024-05-08 23:53:31,187: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-05-08 23:58:51,114: INFO: server: Shutting down]
+[2024-05-08 23:58:51,238: INFO: on: Waiting for application shutdown.]
+[2024-05-08 23:58:51,243: INFO: on: Application shutdown complete.]
+[2024-05-08 23:58:51,245: INFO: server: Finished server process [2328]]
